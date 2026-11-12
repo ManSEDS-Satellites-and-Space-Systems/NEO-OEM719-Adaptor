@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "GNSS-PCB")(type "KiCad")(uri "${KIPRJMOD}/GNSS-PCB.pretty")(options "")(descr ""))
+)
